@@ -6,3 +6,4 @@ ipython
 trame
 pyvista[jupyter]
 imageio
+pandas
